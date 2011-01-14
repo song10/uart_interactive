@@ -9,6 +9,9 @@ pySerial 2.5.
 	download installer (refer to http://pyserial.sourceforge.net/)
 		http://pypi.python.org/packages/any/p/pyserial/pyserial-py3k-2.5.win32.exe#md5=c7d770dede6f6c6197d9652a7658f18e
 		
+*download this utility (read only)
+	git clone git://github.com/song10/uart_interactive.git
+			
 *run the utility
 	under a DOS box
 	>python urcom.py

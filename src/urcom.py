@@ -4,10 +4,7 @@ Created on 2010/11/1
 @author: song10
 '''
 
-import socket
-import sys
-import os
-import time
+import socket, sys, os, time
 import msvcrt
 import serial
 
